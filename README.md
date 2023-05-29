@@ -3,7 +3,7 @@ This is a personal project about data analysis of a data frame related to UFC ev
 
 In the uploaded documents, the following scripts were written with the data analysis and plot for the fighters and events dataset respectively.
 
-analysis fighters.ipynb
-analysis events.ipynb
+* analysis fighters.ipynb
+* analysis events.ipynb
 
 The dataset is updated until the last event, may 20th 2023.
